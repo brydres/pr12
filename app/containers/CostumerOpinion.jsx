@@ -1,6 +1,4 @@
 import CostumerInfo from "../components/CostumerInfo"
-import '../styles/containers/CostumerOpinion.scss'
-
 const CostumerOpinion = () => {
   return (
     <div className='CostumerOpinion'>
