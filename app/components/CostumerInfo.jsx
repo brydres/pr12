@@ -1,4 +1,3 @@
-import "../styles/components/CostumerInfo.scss";
 import CostumerImage from "../assets/images/person4.png";
 
 const CostumerInfo = () => {

@@ -1,4 +1,3 @@
-import '../styles/containers/FooterMenu.scss'
 
 const FooterMenu = () => {
   return (

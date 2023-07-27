@@ -2,7 +2,6 @@ import instagram from '../assets/icons/instagram.svg'
 import linkedin from '../assets/icons/linkedin.svg'
 import twitter from '../assets/icons/twitter.svg'
 
-import '../styles/containers/FooterSocialMedia.scss'
 
 const FooterSocialMedia = () => {
   return (

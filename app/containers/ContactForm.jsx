@@ -1,4 +1,3 @@
-import '../styles/containers/ContactForm.scss'
 
 const ContactForm = () => {
   return (

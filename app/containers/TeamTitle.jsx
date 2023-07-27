@@ -1,4 +1,3 @@
-import '../styles/containers/TeamTilte.scss'
 
 const TeamTitle = () => {
   return (
