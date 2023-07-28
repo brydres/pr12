@@ -1,4 +1,5 @@
 import CostumerImage from "../assets/images/person4.png";
+import styles from "@/app/components/CostumerInfo.css"
 
 const CostumerInfo = () => {
   return (
