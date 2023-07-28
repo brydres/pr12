@@ -1,5 +1,5 @@
 import React from 'react'
-import "@/app/components/Container.css"
+import "@/app/globals.css"
 
 export default function Container() {
   return (
