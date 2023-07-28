@@ -9,7 +9,6 @@ const Footer = () => {
         <FooterMenu />
         <FooterSocialMedia />
         <ContactForm />
-        <p className='credits'>created by <span>Poncho Ramos</span> - devChallenges.io </p>
     </div>
   )
 }
